@@ -1,0 +1,6 @@
+第一个repository
+<<<<<<< HEAD
+Creating a new branch is quick.
+=======
+hello
+>>>>>>> origin/dev
